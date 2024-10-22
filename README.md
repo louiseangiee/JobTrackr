@@ -1,1 +1,1 @@
-# jobi - Job Application Tracker
+# JobTrackr - Job Application Tracker
